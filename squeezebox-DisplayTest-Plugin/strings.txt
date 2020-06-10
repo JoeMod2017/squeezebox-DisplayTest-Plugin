@@ -1,0 +1,10 @@
+# String file for DisplayTest plugin
+
+DISPLAYTEST
+	DE	Display-Test
+	EN	Display Test
+
+DISPLAYTEST_DESC
+	DE	Display-Test-App zur Zustandsprüfung des Displays - nur für VFDs (SB 1, 2, Classic, Boom, Transporter)
+	EN	Test app for checking the state of your display - only for VFDs (SB 1, 2, Classic, Boom, Transporter)
+
