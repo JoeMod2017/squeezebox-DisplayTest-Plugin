@@ -66,8 +66,10 @@ sub resetView {
 
 sub getDisplayName
 {
-    return "DISPLAYTEST";
+    return "Display Test";
 }
+
+sub playerMenu { 'SETTINGS' }
 
 sub setMode {
 	my $class  = shift;

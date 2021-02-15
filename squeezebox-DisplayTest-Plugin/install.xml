@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <extension>
 	<id>6D96B9BB-832E-4E4A-8C00-0742AF7A117D</id>
-	<name>DISPLAYTEST</name>
+	<name>Display Test</name>
 	<module>Slim::Plugin::DisplayTest::Plugin</module>
-	<version>0.1</version>
-	<playerMenu>PLUGINS</playerMenu> <!-- this puts it in the Extras menu -->
-	<description>DISPLAYTEST_DESC</description>
+	<version>0.2</version>
+	<playerMenu>SETTINGS</playerMenu>
+	<description>DisplayTest v0.2</description>
 	<creator>JF-IT-Services</creator>
 	<defaultState>enabled</defaultState>
 	<homepageURL>http://www.mysqueezebox.com/support</homepageURL>
